@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.30.0@sha256:ecb7567431d9c2b899be7b04cd5a72722655e36fd58f69ed695e469daab9009b
+FROM quay.io/shipwright/shipwright-build-controller:v0.6.0@sha256:7e9dce636fcedcdb4e18cc8d3ccb6bdd4e21fa0c7551efef63aa5464e1b9745b
