@@ -1,1 +1,1 @@
-FROM quay.io/shipwright/shipwright-build-controller:v0.6.0@sha256:7e9dce636fcedcdb4e18cc8d3ccb6bdd4e21fa0c7551efef63aa5464e1b9745b
+FROM kubebuilder/kube-rbac-proxy:v0.8.0
